@@ -1,0 +1,36 @@
+# Blazor output directories
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.cache
+*.dll.refresh
+*.dbmdl
+*.log
+*.exe
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+
+# Node.js dependencies
+node_modules/
+
+# Compiled TypeScript files
+*.js
+*.map
+
+# NuGet packages
+packages/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+
+# Other files
+_ReSharper*/
+*.ncrunch*
+*.dotCover
+*.vsconfig
